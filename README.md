@@ -34,3 +34,10 @@ Crackable Password Exploitation:<br/>
 <a href="https://imgur.com/gCj9om9"><img src="https://i.imgur.com/gCj9om9.png" title="Brute Force Attack" /></a>
 Reverse Shell Exploitation:<br/>
 <a href="https://imgur.com/GGV2WfO"><img src="https://i.imgur.com/GGV2WfO.png" title="Reverse Shell" /></a>
+<br>
+<h2>Blue Team:</h2>
+<br>
+<p align="center">
+Port Scan Data:<br/>
+<a href="https://imgur.com/AW9wavU"><img src="https://i.imgur.com/AW9wavU.png" title="Port Scan Data" /></a>
+Network Scan results with Nmap:<br/>
