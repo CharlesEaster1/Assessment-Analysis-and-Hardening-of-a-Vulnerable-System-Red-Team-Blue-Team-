@@ -23,3 +23,5 @@ This walkthrough shows the process of what a red an blue team does. The red team
 <p align="center">
 Network Topology:<br/>
 <a href="https://imgur.com/bScCZjs"><img src="https://i.imgur.com/bScCZjs.png" title="Network Topology" /></a>
+Red Team Network Scan With Nmap:<br/>
+<a href="https://imgur.com/p0rSoa1"><img src="https://i.imgur.com/p0rSoa1.png" title="Nmap Scan Results" /></a>
