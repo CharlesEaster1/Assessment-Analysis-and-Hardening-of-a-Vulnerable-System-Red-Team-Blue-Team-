@@ -21,5 +21,5 @@ This walkthrough shows the process of what a red an blue team does. The red team
 <h2>Walk-through:</h2>
 
 <p align="center">
-Create new VM:<br/>
+Network Topology:<br/>
 <a href="https://imgur.com/bScCZjs"><img src="https://i.imgur.com/bScCZjs.png" title="Network Topology" /></a>
