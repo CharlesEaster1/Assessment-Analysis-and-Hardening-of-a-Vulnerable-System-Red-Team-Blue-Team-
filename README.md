@@ -40,4 +40,5 @@ Reverse Shell Exploitation:<br/>
 <p align="center">
 Port Scan Data:<br/>
 <a href="https://imgur.com/AW9wavU"><img src="https://i.imgur.com/AW9wavU.png" title="Port Scan Data" /></a>
-Network Scan results with Nmap:<br/>
+Hidden Directory Requesta:<br/>
+<a href="https://imgur.com/HdngbV9"><img src="https://i.imgur.com/HdngbV9.png" title="Hidden Directory Data" /></a>  
