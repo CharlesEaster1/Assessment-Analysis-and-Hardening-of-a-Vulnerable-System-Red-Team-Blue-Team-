@@ -44,3 +44,5 @@ Hidden Directory Request:<br/>
 <a href="https://imgur.com/HdngbV9"><img src="https://i.imgur.com/HdngbV9.png" title="Hidden Directory Data" /></a>  
 Brute force attack data:<br/>
 <a href="https://imgur.com/8g2Z7Ne"><img src="https://i.imgur.com/8g2Z7Ne.png" title="Brute Force Attack" /></a>
+<br>
+<h2>Hardening The System</h2>
