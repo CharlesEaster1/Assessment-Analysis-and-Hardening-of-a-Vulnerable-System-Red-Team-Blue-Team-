@@ -29,5 +29,5 @@ Network Scan results with Nmap:<br/>
 <a href="https://imgur.com/p0rSoa1"><img src="https://i.imgur.com/p0rSoa1.png" title="Nmap Scan Results" /></a>
 Vulnerabilities found from Nmap scan:<br/>
 <a href="https://imgur.com/ky4Th0o"><img src="https://i.imgur.com/ky4Th0o.png" title="Open Ports" /></a>
-Port 22 Exploitation  scan:<br/>
+Port 22 Exploitation:<br/>
 <a href="https://imgur.com/GsRZHt7"><img src="https://i.imgur.com/GsRZHt7.png" title="Port Exploitation" /></a>
