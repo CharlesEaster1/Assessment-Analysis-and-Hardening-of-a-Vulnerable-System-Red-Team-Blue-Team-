@@ -40,5 +40,7 @@ Reverse Shell Exploitation:<br/>
 <p align="center">
 Port Scan Data:<br/>
 <a href="https://imgur.com/AW9wavU"><img src="https://i.imgur.com/AW9wavU.png" title="Port Scan Data" /></a>
-Hidden Directory Requesta:<br/>
+Hidden Directory Request:<br/>
 <a href="https://imgur.com/HdngbV9"><img src="https://i.imgur.com/HdngbV9.png" title="Hidden Directory Data" /></a>  
+Brute force attack data:<br/>
+<a href="https://imgur.com/8g2Z7Ne"><img src="https://i.imgur.com/8g2Z7Ne.png" title="Brute Force Attack" /></a>
