@@ -8,8 +8,8 @@ This walkthrough shows the process of what a red an blue team does. The red team
 <h2>Resources Used</h2>
 
 - <b>Virtual Machine (VM)</b> 
-- <b>Resource Group</b>
-- <b>Log Analytics Workspace</b>
+- <b>Kabana</b>
+- <b>Kali L</b>
 - <b>Microsoft Defender for Cloud</b>
 - <b>Azure Sentinel (Siem)</b>
 
