@@ -52,3 +52,5 @@ Blocking Port Scan:<br/>
 <a href="https://imgur.com/tTuBBDD"><img src="https://i.imgur.com/tTuBBDD.png" title="Blocking Port Scan" /></a>
 Hidden Directory Analysis:<br/>
 <a href="https://imgur.com/e9wrf9v"><img src="https://i.imgur.com/e9wrf9v.png" title="Hidden Directory Analysis" /></a>
+Brute Force Attack Analysis:<br/>
+<a href="https://imgur.com/3yJ0fuU"><img src="https://i.imgur.com/3yJ0fuU.png" title="Brute Force Analysis" /></a>
