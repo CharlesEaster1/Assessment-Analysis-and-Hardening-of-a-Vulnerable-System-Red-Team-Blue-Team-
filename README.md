@@ -47,5 +47,6 @@ Brute force attack data:<br/>
 <br>
 <h2>Hardening The System</h2>
 <br>
+<p align="center">
 Blocking Port Scan:<br/>
 <a href="https://imgur.com/tTuBBDD"><img src="https://i.imgur.com/tTuBBDD.png" title="Blocking Port Scan" /></a>
