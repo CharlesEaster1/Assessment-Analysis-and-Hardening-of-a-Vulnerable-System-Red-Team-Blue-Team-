@@ -19,8 +19,8 @@ This walkthrough shows the process of what a red an blue team does. The red team
 - <b>Microsoft Azure</b> 
 
 <h2>Walk-through:</h2>
-<br>
 <h2>Red Team:</h2>
+<br>
 <br>
 <p align="center">
 Network Topology:<br/>
