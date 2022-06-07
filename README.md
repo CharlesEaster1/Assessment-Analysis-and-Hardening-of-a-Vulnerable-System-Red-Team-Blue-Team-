@@ -32,3 +32,5 @@ Port 22 Exploitation:<br/>
 <a href="https://imgur.com/GsRZHt7"><img src="https://i.imgur.com/GsRZHt7.png" title="Port Exploitation" /></a>
 Crackable Password Exploitation:<br/>
 <a href="https://imgur.com/gCj9om9"><img src="https://i.imgur.com/gCj9om9.png" title="Brute Force Attack" /></a>
+Reverse Shell Exploitation:<br/>
+<a href="https://imgur.com/GGV2WfO"><img src="https://i.imgur.com/GGV2WfO.png" title="Reverse Shell" /></a>
