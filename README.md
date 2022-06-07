@@ -23,7 +23,9 @@ This walkthrough shows the process of what a red an blue team does. The red team
 <br>
 <br>
 <p align="center">
-Network Topology:<br/>
+Network topology:<br/>
 <a href="https://imgur.com/bScCZjs"><img src="https://i.imgur.com/bScCZjs.png" title="Network Topology" /></a>
-Network Scan With Nmap:<br/>
+Network Scan results with Nmap:<br/>
 <a href="https://imgur.com/p0rSoa1"><img src="https://i.imgur.com/p0rSoa1.png" title="Nmap Scan Results" /></a>
+Vulnerabilities found from Nmap scan:<br/>
+<a href="https://imgur.com/ky4Th0o"><img src="https://i.imgur.com/ky4Th0o.png" title="Open Ports" /></a>
