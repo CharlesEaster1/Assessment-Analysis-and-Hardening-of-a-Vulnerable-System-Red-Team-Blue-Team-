@@ -15,7 +15,7 @@ This walkthrough shows the process of what a red an blue team does. The red team
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2) (VM)
+- <b>Windows 10</b>(VM)
 - <b>Microsoft Azure</b> 
 
 <h2>Walk-through:</h2>
