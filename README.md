@@ -54,3 +54,5 @@ Hidden Directory Analysis:<br/>
 <a href="https://imgur.com/e9wrf9v"><img src="https://i.imgur.com/e9wrf9v.png" title="Hidden Directory Analysis" /></a>
 Brute Force Attack Analysis:<br/>
 <a href="https://imgur.com/3yJ0fuU"><img src="https://i.imgur.com/3yJ0fuU.png" title="Brute Force Analysis" /></a>
+Secure Shell Analysis:<br/>
+<a href="https://imgur.com/ZVlKttz"><img src="https://i.imgur.com/ZVlKttz.png" title="Secure Shell Analysis" /></a>
