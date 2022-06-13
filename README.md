@@ -1,7 +1,7 @@
 <h1>Assessment, Analysis, & Hardening Of A Vulnerable System</h1>
 
 <h2>Description</h2>
-This walkthrough shows the process of what a red an blue team does. The red team completes security assessments and reports their findings. The blue team takes the information from the red team and hardens vulnerable systems.
+This walkthrough shows the process of what a red and blue team does. The red team completes security assessments and reports their findings. The blue team takes the information from the red team and hardens vulnerable systems.
 <br />
 
 
